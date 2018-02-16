@@ -1,0 +1,46 @@
+.content {
+    margin: 0 auto;
+    width: 250px;
+  }
+  
+  .content__inner {
+    margin: 0 auto;
+    border: 15px solid grey;
+    display: flex;
+    flex-direction: column;
+    background-color: #D3D3D3; 
+  }
+  
+  .content__title {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 25px;    
+  }
+  
+  .content__login-name {
+    margin: 0 auto;
+    margin-top: 40px;
+    height: 25px;
+  }
+  
+  .content__login-password {
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 25px; 
+  }
+  
+  .content__login-button {
+    margin: 10px 0 15px 22px;
+    height: 35px;
+    width: 175px;
+    font-family: Ariel;
+    font-weight: 700;
+    background-color: #5b9dff;
+    color: white;
+  }
+  
+  .content__login-forgot {
+    font-size: 10px;
+    font-weight: 600;
+    margin: 0 0 20px 28px
+  }
